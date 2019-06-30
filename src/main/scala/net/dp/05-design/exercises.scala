@@ -1,6 +1,6 @@
 // Copyright(C) 2018-2019 John A. De Goes. All rights reserved.
 
-package net.degoes.design
+package net.dp.design
 import java.sql.ResultSet
 import java.net.URL
 

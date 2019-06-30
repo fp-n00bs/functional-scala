@@ -1,6 +1,6 @@
 // Copyright(C) 2018-2019 John A. De Goes. All rights reserved.
 
-package net.degoes.abstractions
+package net.dp.abstractions
 
 import scalaz._
 import Scalaz._

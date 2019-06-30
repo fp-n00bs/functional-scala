@@ -1,6 +1,6 @@
-package net.degoes.applications.db
+package net.dp.applications.db
 
-import net.degoes.applications.data.{ User, UserNotFound }
+import net.dp.applications.data.{ User, UserNotFound }
 import doobie.{ Query0, Transactor, Update0 }
 import scalaz.zio._
 import doobie.implicits._

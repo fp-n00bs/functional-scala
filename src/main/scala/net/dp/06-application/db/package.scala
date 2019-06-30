@@ -1,4 +1,4 @@
-package net.degoes.applications
+package net.dp.applications
 
 import data.User
 import scalaz.zio.{ TaskR, ZIO }

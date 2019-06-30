@@ -1,4 +1,4 @@
-package net.degoes.applications.configuration
+package net.dp.applications.configuration
 
 case class Config(api: ApiConfig, dbConfig: DbConfig)
 case class ApiConfig(endpoint: String, port: Int)

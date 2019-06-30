@@ -1,4 +1,4 @@
-package net.degoes.applications
+package net.dp.applications
 
 import doobie.h2.H2Transactor
 import pureconfig.loadConfigOrThrow

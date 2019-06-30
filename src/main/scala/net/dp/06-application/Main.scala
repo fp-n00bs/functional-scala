@@ -1,11 +1,11 @@
 /**
  * This example is inspired by [[https://github.com/mschuwalow/zio-todo-backend]]
  */
-package net.degoes.applications
+package net.dp.applications
 
 import cats.effect.ExitCode
-import net.degoes.applications.db.Persistence
-import net.degoes.applications.http.Api
+import net.dp.applications.db.Persistence
+import net.dp.applications.http.Api
 import org.http4s.implicits._
 import org.http4s.server.Router
 import org.http4s.server.blaze.BlazeServerBuilder
